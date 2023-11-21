@@ -1,0 +1,13 @@
+export MARKET=US
+export ENV=STAGE
+export SAUCE_USERNAME=sso-sharecare-muhammed.zubair
+export SAUCE_ACCESS_KEY=dfd2dfcd-af89-4f77-b604-a0a4b9e716a9
+export TESTRAIL_USERNAME=muhammed.zubair@sharecare.com
+export TESTRAIL_PASSWORD=Codoid.123
+export SUITE_NAME=programs
+export APP_CLOUD_NAME=app-sharecare-rcandi-debug.apk
+export APP_CLOUD_NAME=app-carefirst-rcandi-debug.apk
+PATH="/usr/bin/python3:$PATH"
+PATH="/usr/local/bin:$PATH"
+PATH="/usr/local/bin:$PATH"
+eval "$(/opt/homebrew/bin/brew shellenv)"
